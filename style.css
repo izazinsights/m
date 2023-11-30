@@ -1329,8 +1329,8 @@ margin-top:-50px;
   100% {
     transform: rotate(360deg);
   }
-}</style>
-<style type="text/css">
+}
+
 .xid {margin-left:10px; color:#10ff00;}
 .xis {margin-left:10px; color:#10ff00;}
 .clock {
@@ -1339,7 +1339,7 @@ top:3%;
 left: 50%;
 transform: translateX(-50%) translateY(-50%);
 color: #17D4FE;
-font-size: 30px;
+font-size: 25px;
 letter-spacing: 2px;
 
 
